@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "name": "Apple",
+      "category": "Fruit",
+      "date": "2022-08-01T18:00:00.000Z",
+      "condition": "New",
+      "price": 150,
+      "comment": "Fresh apple",
+      "id": 1
+    },
+    {
+      "name": "Pineapple",
+      "category": "Fruit",
+      "date": "2022-08-02T18:00:00.000Z",
+      "condition": "New",
+      "price": 148,
+      "comment": "This is an fresh pineapple",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
